@@ -32,8 +32,13 @@
   ## License
   Licensed under the MIT License license.
 
+<<<<<<< HEAD
   ## Screenshots
   ![alt text](<Screenshot (233).png>) ![alt text](<Screenshot (234).png>) ![alt text](<Screenshot (232).png>)  ![alt text](<Screenshot (235).png>)
   
   ## Walkthrough Video Link
+=======
+  ## Walkthrough Video 
+  https://drive.google.com/file/d/14QutSDw_u8ft6toErXzfd5Cg8g3uT7yl/view?usp=sharing
+>>>>>>> d78d8851c529b3a050d416257bebf4428c9e731c
   
